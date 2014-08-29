@@ -20,4 +20,4 @@ Other directories:
 File naming rule:
 Every task has an id, its curl config file name is id.curl, parsed file name is id.txt
 
-For more infomation, please refer [http://www.maintao.com/stateful-crawler-in-nodejs/](http://www.maintao.com/stateful-crawler-in-nodejs/)
+For more information, please refer [http://www.maintao.com/stateful-crawler-in-nodejs/](http://www.maintao.com/stateful-crawler-in-nodejs/)
